@@ -2,3 +2,5 @@
 *.tsv
 *.zip
 *.xlsx
+*ipynb_checkpoints
+*.xls
