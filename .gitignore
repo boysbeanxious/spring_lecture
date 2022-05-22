@@ -2,5 +2,11 @@
 *.tsv
 *.zip
 *.xlsx
+<<<<<<< HEAD
 *ipynb_checkpoints
 *.xls
+=======
+*.png
+*.xls
+*.csv
+>>>>>>> 2cddb82dc58ae1bfab71f54191b7dd5c034e4f56
